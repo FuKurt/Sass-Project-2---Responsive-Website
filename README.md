@@ -8,4 +8,5 @@
 -placeholders<br>
 -mixin<br>
 -nesting<br>
+-responsive design with sass
 
